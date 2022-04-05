@@ -1,0 +1,16 @@
+.dash-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+}
+.dashboard-header1  {
+color:blueviolet ;
+margin-bottom: 40px;
+margin-left: 60px;
+}
+.dashboard-header2{
+    color:blueviolet ;
+    margin-bottom: 40px;
+    margin-left: 60px;
+}
