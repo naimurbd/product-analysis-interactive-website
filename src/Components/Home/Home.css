@@ -13,3 +13,11 @@ margin-right: 40px;
 .article p {
     font-size: larger;
 }
+.customer-corner{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn{
+    text-align: center;
+    padding: 20px;
+}
