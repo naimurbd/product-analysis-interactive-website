@@ -1,5 +1,15 @@
-.main-part{
+.home-container{
     display: flex;
-    justify-content: center; 
+      justify-content: center;   
     align-items: center;
+}
+ .home-container img {
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.article {
+margin-right: 40px;
+} 
+.article p {
+    font-size: larger;
 }
