@@ -1,6 +1,6 @@
 ## Assignment 9
 
-### Live Site: [Site-Link](https://fabulous-hamster-50a16b.netlify.app/blogs)
+### Live Site: [Site-Link]('https://fabulous-hamster-50a16b.netlify.app/blogs')
 
 ###### Description:
 <li>This site is made with React.js </li> 
