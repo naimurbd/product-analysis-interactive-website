@@ -5,9 +5,9 @@ const ReviewItem = (props) => {
     const { name, compliments, rating } = props.product;
     return (
         <div className='review-container'>
-            <h2> Name: {name}</h2>
-            <h3>{compliments}</h3>
-            <h4> Rating: {rating}</h4>
+            <h2>  {name}</h2>
+            <h4>{compliments}</h4>
+            <h3> Rating: {rating}</h3>
         </div>
     );
 };
