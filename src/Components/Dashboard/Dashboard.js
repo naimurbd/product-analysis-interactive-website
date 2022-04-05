@@ -62,7 +62,7 @@ const Dashboard = () => {
                     <Bar dataKey={'investment'} fill={"#8884d8"}></Bar>
                     <Bar dataKey={'revenue'} fill={"#82ca9d"}></Bar>
                     <YAxis dataKey={'investment'}></YAxis>
-                    {/* <YAxis dataKey={'revenue'}></YAxis> */}
+
                     <XAxis dataKey={'month'}></XAxis>
 
                 </BarChart>

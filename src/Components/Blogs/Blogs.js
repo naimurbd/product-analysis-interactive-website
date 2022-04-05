@@ -6,7 +6,7 @@ const Blogs = () => {
 
         <div >
             <div className='blog-container'>
-                <h1> What Is Semantic tag? </h1>
+                <h1> What is Semantic tag? </h1>
                 <p>
                     Semantic tag clearly define the purpose of the HTML element. It also describes the type of content that the element should contain.Semantic tag also helps search engines to parse the webpage correctly. And it finds accurate information. Thus, helping search engines to correctly index the page.
                 </p>

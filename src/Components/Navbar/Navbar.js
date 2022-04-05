@@ -7,7 +7,7 @@ const Navbar = () => {
     return (
         <nav className='navbar-section'>
             <div>
-                {/* <h2>Navber</h2> */}
+
             </div>
             <div>
                 <NavLink className={({ isActive }) => isActive ? "active-link" : "link"} to='/'>HOME</NavLink>

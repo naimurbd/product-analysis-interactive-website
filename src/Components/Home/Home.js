@@ -10,7 +10,7 @@ const Home = () => {
         <div>
             <div className='home-container'>
                 <div className='article'>
-                    <h1>Discover daily, the best new books</h1>
+                    <h1 className='header'>Discover daily, the best new books</h1>
                     <p>Get early access to fresh indie books and help decide on the bestselling stories of tomorrow. <br />
                         <b>Welcome to Bookshop!</b> <br />
                         Bookshop is an online bookstore with a mission to financially support local, independent bookstores.

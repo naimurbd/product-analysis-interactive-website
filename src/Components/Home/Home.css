@@ -1,8 +1,8 @@
 .home-container{
    
     display: flex;
-      justify-content: center;   
-    align-items: center;
+        justify-content: center;    
+    align-items: center; 
 }
  .home-container img {
     margin-left: 20px;
@@ -12,6 +12,9 @@
 /* margin-right: 40px; */
 margin-left: 50px;
 } 
+.header{
+    color: rgb(54, 150, 118);
+}
 .article p {
     font-size: larger;
 }
