@@ -1,14 +1,16 @@
 .home-container{
+   
     display: flex;
       justify-content: center;   
     align-items: center;
 }
  .home-container img {
-    margin-left: 40px;
+    margin-left: 20px;
     margin-top: 80px;
 }
 .article {
-margin-right: 40px;
+/* margin-right: 40px; */
+margin-left: 50px;
 } 
 .article p {
     font-size: larger;
@@ -20,4 +22,6 @@ margin-right: 40px;
 .btn{
     text-align: center;
     padding: 20px;
+    text-decoration: none;
+    
 }
